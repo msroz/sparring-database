@@ -1,0 +1,7 @@
+adapter: mysql2
+encoding: utf8
+database: sparring
+username: sparring
+host: mysql
+# host: 127.0.0.1
+# port: 3307
